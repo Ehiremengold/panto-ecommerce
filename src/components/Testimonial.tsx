@@ -1,5 +1,3 @@
-import React from "react";
-
 const Testimonial = () => {
   return (
     <section className="w-full py-12 flex flex-col items-center justify-center gap-8">
