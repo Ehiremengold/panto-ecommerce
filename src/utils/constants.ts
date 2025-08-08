@@ -22,7 +22,7 @@ export const categoriesName = [
 export const products = [
   {
     title: "Chair",
-    image: "/src/assets/images/products/product_1.png",
+    image: "/product_1.png",
     description: "Sakarias armchair",
     price: 392,
     rating: 4.5,
@@ -30,7 +30,7 @@ export const products = [
   },
   {
     title: "Chair",
-    image: "/src/assets/images/products/product_2.png",
+    image: "/product_2.png",
     description: "baltsar chair",
     price: 299,
     rating: 5,
@@ -38,7 +38,7 @@ export const products = [
   },
   {
     title: "Chair",
-    image: "/src/assets/images/products/product_3.png",
+    image: "/product_3.png",
     description: "Anjoy chair",
     price: 500,
     rating: 3.5,
@@ -46,7 +46,7 @@ export const products = [
   },
   {
     title: "Chair",
-    image: "/src/assets/images/products/product_4.png",
+    image: "/product_4.png",
     description: "Nyantuy  chair",
     price: 600,
     rating: 3,
@@ -54,7 +54,7 @@ export const products = [
   },
   {
     title: "Chair",
-    image: "/src/assets/images/products/product_1.png",
+    image: "/product_1.png",
     description: "Nyantuy  chair",
     price: 600,
     rating: 3,
@@ -62,7 +62,7 @@ export const products = [
   },
   {
     title: "bed",
-    image: "/src/assets/images/products/product_4.png",
+    image: "/product_4.png",
     description: "Sakarias armchair",
     price: 392,
     rating: 4.5,
@@ -70,7 +70,7 @@ export const products = [
   },
   {
     title: "bed",
-    image: "/src/assets/images/products/product_3.png",
+    image: "/product_3.png",
     description: "baltsar chair",
     price: 299,
     rating: 5,
@@ -78,7 +78,7 @@ export const products = [
   },
   {
     title: "bed",
-    image: "/src/assets/images/products/product_2.png",
+    image: "/product_2.png",
     description: "Anjoy  chair",
     price: 500,
     rating: 3.5,
@@ -86,7 +86,7 @@ export const products = [
   },
   {
     title: "bed",
-    image: "/src/assets/images/products/product_1.png",
+    image: "/product_1.png",
     description: "Anjoy  chair",
     price: 500,
     rating: 3.5,
@@ -94,7 +94,7 @@ export const products = [
   },
   {
     title: "bed",
-    image: "/src/assets/images/products/product_1.png",
+    image: "/product_1.png",
     description: "Nyantuy  chair",
     price: 600,
     rating: 3,
@@ -102,7 +102,7 @@ export const products = [
   },
   {
     title: "sofa",
-    image: "/src/assets/images/products/product_1.png",
+    image: "/product_1.png",
     description: "Sakarias armchair",
     price: 392,
     rating: 4.5,
@@ -110,7 +110,7 @@ export const products = [
   },
   {
     title: "sofa",
-    image: "/src/assets/images/products/product_2.png",
+    image: "/product_2.png",
     description: "baltsar chair",
     price: 299,
     rating: 5,
@@ -118,7 +118,7 @@ export const products = [
   },
   {
     title: "sofa",
-    image: "/src/assets/images/products/product_3.png",
+    image: "/product_3.png",
     description: "Anjoy  chair",
     price: 500,
     rating: 3.5,
@@ -126,7 +126,7 @@ export const products = [
   },
   {
     title: "sofa",
-    image: "/src/assets/images/products/product_4.png",
+    image: "/product_4.png",
     description: "Nyantuy  chair",
     price: 600,
     rating: 3,
@@ -134,7 +134,7 @@ export const products = [
   },
   {
     title: "sofa",
-    image: "/src/assets/images/products/product_1.png",
+    image: "/product_1.png",
     description: "Nyantuy  chair",
     price: 600,
     rating: 3,
@@ -142,7 +142,7 @@ export const products = [
   },
   {
     title: "lamp",
-    image: "/src/assets/images/products/product_4.png",
+    image: "/product_4.png",
     description: "Nyantuy  chair",
     price: 600,
     rating: 3,
@@ -150,7 +150,7 @@ export const products = [
   },
   {
     title: "lamp",
-    image: "/src/assets/images/products/product_3.png",
+    image: "/product_3.png",
     description: "Sakarias armchair",
     price: 392,
     rating: 4.5,
@@ -158,7 +158,7 @@ export const products = [
   },
   {
     title: "lamp",
-    image: "/src/assets/images/products/product_2.png",
+    image: "/product_2.png",
     description: "baltsar chair",
     price: 299,
     rating: 5,
@@ -166,7 +166,7 @@ export const products = [
   },
   {
     title: "lamp",
-    image: "/src/assets/images/products/product_1.png",
+    image: "/product_1.png",
     description: "Anjoy  chair",
     price: 500,
     rating: 3.5,
@@ -174,7 +174,7 @@ export const products = [
   },
   {
     title: "lamp",
-    image: "/src/assets/images/products/product_4.png",
+    image: "/product_4.png",
     description: "Anjoy  chair",
     price: 500,
     rating: 3.5,
